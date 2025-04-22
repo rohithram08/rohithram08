@@ -2,6 +2,6 @@
 - 👀 I’m interested in Data Science, Machine Learning, and AI-powered applications.  
 - 🌱 I’m currently learning advanced Data Science techniques, Japanese (NAT N5), and working on real-time ML projects.  
 - 💞️ I’m looking to collaborate on innovative AI/ML projects, research papers, and smart application development.  
-- 📫 How to reach me: rohithram5467@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/rohithram08)  
+- 📫 How to reach me: rohithram5467@gmail.com or connect on [LinkedIn](https://www.linkedin.com/in/rohith-ram-h-3175b825b)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I can switch from coding Python to writing Japanese Hiragana with equal enthusiasm!
